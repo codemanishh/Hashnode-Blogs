@@ -12,3 +12,4 @@ this the work page for the my  course of ineuron.ai so here i uploaded all the b
 5.[**css-selectors**](https://codemanishh.hashnode.dev/css-selectors
 )
 6.[**Flex Box (CSS)**](https://codemanishh.hashnode.dev/flex-box-css)
+7.[**History of JS & Fundaments of JS**](https://codemanishh.hashnode.dev/history-of-js-fundaments-of-js)
