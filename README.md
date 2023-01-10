@@ -9,3 +9,4 @@ this the work page for the my  course of ineuron.ai so here i uploaded all the b
 ### 6.[**Flex Box (CSS)**](https://codemanishh.hashnode.dev/flex-box-css)
 ### 7.[**History of JS & Fundaments of JS**](https://codemanishh.hashnode.dev/history-of-js-fundaments-of-js)
 ### 7.[**Functions in JS**](https://codemanishh.hashnode.dev/functions-in-js)
+### 7.[**Array Methods In-Depth, JS**](https://codemanishh.hashnode.dev/array-methods-in-depth-js)
