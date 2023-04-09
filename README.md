@@ -8,7 +8,9 @@ this the work page for the my  course of ineuron.ai so here i uploaded all the b
 ### 5.[**css-selectors**](https://codemanishh.hashnode.dev/css-selectors)
 ### 6.[**Flex Box (CSS)**](https://codemanishh.hashnode.dev/flex-box-css)
 ### 7.[**History of JS & Fundaments of JS**](https://codemanishh.hashnode.dev/history-of-js-fundaments-of-js)
-### 7.[**Functions in JS**](https://codemanishh.hashnode.dev/functions-in-js)
-### 7.[**Array Methods In-Depth, JS**](https://codemanishh.hashnode.dev/array-methods-in-depth-js)
-### 7.[**DOM _Document Object Model and DOM_events**](https://codemanishh.hashnode.dev/dom-document-object-model-and-domevents)
+### 8.[**Functions in JS**](https://codemanishh.hashnode.dev/functions-in-js)
+### 9.[**Array Methods In-Depth, JS**](https://codemanishh.hashnode.dev/array-methods-in-depth-js)
+### 10.[**DOM _Document Object Model and DOM_events**](https://codemanishh.hashnode.dev/dom-document-object-model-and-domevents)
+### 11.[**Events in JavaScript - post: 01**](https://codemanishh.hashnode.dev/events-in-javascript-post-01)
+
 
